@@ -1,0 +1,37 @@
+.table-title{
+    background-color: #656565;
+}
+
+a{
+    color:white;
+}
+.table-title{
+    margin: 5px 5px 10px 5px;
+    padding: 12px 30px 2px;
+    border-radius: 10px;
+}
+
+.col-sm-5 h1{
+    color: white;
+    display: block;
+    font-size: 30px;
+    padding: 15px;
+    margin: 3px -27px;
+}
+
+.col-sm-7{
+    text-align: right;
+    padding: 28px ;
+}
+
+table {
+    width: 100%;
+    margin-left: 20px ;
+    color: #212529;
+    padding: 10px 10px ;
+    border-radius: 2px;
+}
+
+tr, td{
+    text-align: center;
+}
